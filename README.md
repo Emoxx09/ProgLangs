@@ -40,30 +40,36 @@ Using these languages, I written programs in each language that:
 
 
 ### C
-<img src="https://user-images.githubusercontent.com/70185597/154506274-dd5d3180-80d6-4893-83e0-f713c79a3c23.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087481-c7326dfc-b057-4521-8ce7-87448dbd336e.png" width="600">
+
 
 #### Program 1
 
-<img src="https://user-images.githubusercontent.com/70185597/154507401-07850f15-47c9-4df8-b992-6b7b5bd11ff3.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087528-145387cd-4edb-4b75-b02d-7be8c862f36a.png" width="600">
+
 
 #### Program 2
 
-<img src="https://user-images.githubusercontent.com/70185597/154507443-c3bc48dd-aea8-423e-b1d3-717481c49d4b.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087566-80ec551e-f949-4306-81ce-412e71b230e2.png" width="600">
+
 
 #### Program 3
 
 _________________________________________________________________________
 
 ### C++
-<img src="https://user-images.githubusercontent.com/70185597/154507501-8696f7c8-c074-4b72-9043-4dfab1a9fac0.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087762-5729571a-a5cf-43fc-b5cd-d14f4b07676d.png" width="600">
+
 
 #### Program 1
 
-<img src="https://user-images.githubusercontent.com/70185597/154507528-f935fc9e-4246-4e35-aae8-e196e1c5f612.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087814-7c99b8b8-ecbe-4294-9f61-5bd1ab1e7b0e.png" width="600">
+
 
 #### Program 2
 
-<img src="https://user-images.githubusercontent.com/70185597/154507566-4778f821-6019-46bf-b8dc-962ad3c74377.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087862-2ce725c3-e818-4643-9a44-273364e6bad1.png" width="600">
+
 
 #### Program 3
 
@@ -73,15 +79,18 @@ ________________________________________________________________________________
 
 
 ### LISP
-<img src="https://user-images.githubusercontent.com/70185597/154507723-76d2d4e8-5ae6-4ffe-94c1-d00bf179cf40.png" width="450">
+<img src="https://user-images.githubusercontent.com/70185597/155087969-37314112-c72a-41b7-8522-48b57cd40699.png" width="600">
+
 
 #### Program 1
 
-<img src="https://user-images.githubusercontent.com/70185597/154507754-c2ddd42a-80e7-4281-9fb9-89d0f70230e7.png" width="450">
+<img src="https://user-images.githubusercontent.com/70185597/155087981-d45a9dd7-11d4-48d9-8778-6ea180eff60e.png" width="600">
+
 
 #### Program 2
 
-<img src="https://user-images.githubusercontent.com/70185597/154507790-aeec7aa6-7e0c-4fbd-8aea-cfeb45cf84b1.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155087994-b97f7f02-0d8e-4eb3-baa2-62bfa99aae4c.png" width="600">
+
 
 #### Program 3
 
@@ -89,14 +98,17 @@ _________________________________________________________________________
 
 ### Javascript
 
-<img src="https://user-images.githubusercontent.com/70185597/154507907-89737dff-5de1-41a6-b32d-bd2ea29cb5c7.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155088125-5576986f-6e1c-44c3-9adf-f6c047bf3d93.png" width="600">
+
 
 #### Program 1
 
-<img src="https://user-images.githubusercontent.com/70185597/154507966-fe71da23-bdcf-43b4-9874-6685171436bb.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155088138-a176999f-81ba-4aa5-b86a-534fb2e6d8ff.png" width="600">
+
 
 #### Program 2
 
-<img src="https://user-images.githubusercontent.com/70185597/154508000-8ea134c5-b864-4d8b-a4f4-b7e640f37ada.png" width="350">
+<img src="https://user-images.githubusercontent.com/70185597/155088166-70bde9c3-a0f2-4151-b646-499075a693d6.png" width="600">
+
 
 #### Program 3
